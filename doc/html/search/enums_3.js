@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['snpe_5ferrorcode_5ft',['Snpe_ErrorCode_t',['../group__c__apis.html#gaa40d44ade537087ac80f867eb4e7d50f',1,'DlError.h']]],
+  ['snpe_5fexecutionpriorityhint_5ft',['Snpe_ExecutionPriorityHint_t',['../group__c__apis.html#ga5cdef49ab6a3d845d5da0089bda28fce',1,'DlEnums.h']]],
+  ['snpe_5fimageencoding_5ft',['Snpe_ImageEncoding_t',['../group__c__apis.html#ga7be6c70ddf7eb36043a75789554da047',1,'DlEnums.h']]],
+  ['snpe_5fiobufferdatatype_5ft',['Snpe_IOBufferDataType_t',['../group__c__apis.html#gacf0d8cb125f583245b27d62ae299f0a9',1,'DlEnums.h']]],
+  ['snpe_5floglevel_5ft',['Snpe_LogLevel_t',['../group__c__apis.html#ga4f988c3d3afbaf6e886d9d853e9ea651',1,'DlEnums.h']]],
+  ['snpe_5fperformanceprofile_5ft',['Snpe_PerformanceProfile_t',['../group__c__apis.html#ga2bbf863c52b6010323663938721ed29a',1,'DlEnums.h']]],
+  ['snpe_5fplatformconfig_5fplatformtype_5ft',['Snpe_PlatformConfig_PlatformType_t',['../group__c__apis.html#gae334d2f4b000086a48b381368fadd576',1,'PlatformConfig.h']]],
+  ['snpe_5fprofilinglevel_5ft',['Snpe_ProfilingLevel_t',['../group__c__apis.html#ga56dcaf62bd867a86649e4cab49a4aadd',1,'DlEnums.h']]],
+  ['snpe_5fruntime_5ft',['Snpe_Runtime_t',['../group__c__apis.html#ga851ce6c63b2bd5515681a906330f7d01',1,'DlEnums.h']]],
+  ['snpe_5fruntimecheckoption_5ft',['Snpe_RuntimeCheckOption_t',['../group__c__apis.html#gacdec3885743492063797091205a08274',1,'DlEnums.h']]],
+  ['snpe_5fuserbufferencoding_5felementtype_5ft',['Snpe_UserBufferEncoding_ElementType_t',['../group__c__apis.html#ga14deba0524ffaede522cfeb820fb4c74',1,'IUserBuffer.h']]],
+  ['snpe_5fuserbuffersource_5fsourcetype_5ft',['Snpe_UserBufferSource_SourceType_t',['../group__c__apis.html#ga7cc7a3b17366f31e43994d87f54581ad',1,'IUserBuffer.h']]],
+  ['snpeudo_5fcoretype_5ft',['SnpeUdo_CoreType_t',['../group__c__plus__plus__apis.html#ga9ee718ab1d7e3422532434c22af9ab6f',1,'UdoBase.h']]],
+  ['snpeudo_5fdatatype_5ft',['SnpeUdo_DataType_t',['../group__c__plus__plus__apis.html#ga629ab0e5dcda1a3f5d878e6a0aa33fe5',1,'UdoBase.h']]],
+  ['snpeudo_5ferrortype_5ft',['SnpeUdo_ErrorType_t',['../group__c__plus__plus__apis.html#ga1f02bf39ff236da33ba951188e94b2ea',1,'UdoBase.h']]],
+  ['snpeudo_5fparamtype_5ft',['SnpeUdo_ParamType_t',['../group__c__plus__plus__apis.html#gaafb3f03ea2c30e0d13b6bdc1198e8c08',1,'UdoBase.h']]],
+  ['snpeudo_5fquantizationtype_5ft',['SnpeUdo_QuantizationType_t',['../group__c__plus__plus__apis.html#gab2c4271bafb2a63b9df8785387b7e583',1,'UdoBase.h']]],
+  ['snpeudo_5ftensorlayout_5ft',['SnpeUdo_TensorLayout_t',['../group__c__plus__plus__apis.html#ga00d2bc98fcace38b177f41157b19180d',1,'UdoBase.h']]],
+  ['sourcetype_5ft',['SourceType_t',['../group__c__plus__plus__apis.html#aa188cc28b945d473f47ddd769f6231c4',1,'zdl::DlSystem::UserBufferSource']]]
+];
